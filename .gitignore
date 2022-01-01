@@ -3,3 +3,6 @@ vendor/
 composer.json
 composer.json.dist
 composer.lock
+dynamic/
+!dynamic/pfp/default.png
+s/classes/config.inc.php
