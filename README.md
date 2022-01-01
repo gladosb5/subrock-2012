@@ -1,5 +1,5 @@
-# subrock-2012
-## DO NOT ASK ME TO FIX BUGS, THIS IS ONLY A REUPLOAD!
+# ![](https://raw.githubusercontent.com/ralphuf/subrock-2012/main/yt/imgbin/full-size-logo.png)
+## DO NOT ASK ME TO FIX BUGS, THIS IS ONLY A REUPLOAD! Also, this has the old logo, so this is prob older verison of SubRock
 
 
 A fork [SubRocks](https://github.com/the-real-sumsome/subrocks-2012) You can visit the site at https://www.subrock.tk. (doesnt exist anymore)
