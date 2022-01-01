@@ -220,10 +220,10 @@
 							</div>
 							<h2>SubRocks is back!</h2>
 							<p class="sidebar-module-description">
-								I have decided to bring SubRocks back <br>  Let's hope SubRock is better than bhief's SubRocks
+								Thanks for using this SubRock reupload! <br>  Wish you a good day!
 							</p>
 							<p class="sidebar-module-description">
-								Presented by: <a href="/user/billygoat891">billygoat891</a>
+								Presented by: <a href="https://github.com/ralphuf">ralphuf on github</a>
 							</p>
 							<ul>
 								<?php
